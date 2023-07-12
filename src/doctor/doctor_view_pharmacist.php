@@ -57,7 +57,7 @@
             <th>Date of Birth</th>
             <th>Email</th>
             <th>Phone</th>
-            <th>Password</th>
+            
             
         </tr>
 
@@ -70,7 +70,7 @@
                 <td><?php echo $row['DOB']; ?></td>
                 <td><?php echo $row['Email']; ?></td>
                 <td><?php echo $row['Phone']; ?></td>
-                <td><?php echo $row['Password']; ?></td>
+               
                <!-- <td>
                     <form action="edit_pharmacists.php" method="POST">
                         <input type="hidden" name="SSN" value="<?//php echo $row['SSN']; ?>">
