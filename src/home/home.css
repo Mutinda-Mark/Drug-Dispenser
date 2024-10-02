@@ -15,7 +15,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background-image: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url(/img/jacky-watt-AgOcmWTKREc-unsplash.jpg);
+  background-image: linear-gradient(rgba(0,0,0,0.85), rgba(0,0,0,0.85)), url(/Drug-Dispenser/img/jacky-watt-AgOcmWTKREc-unsplash.jpg);
   background-size: cover;
   background-position: center;
   position: sticky;
