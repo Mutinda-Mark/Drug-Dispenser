@@ -127,7 +127,7 @@ $conn->close();
 */
 
 
-$host = "localhost";
+$host = "20.164.22.232";
 $username = "root";
 $password = "";
 $dbname = "CAT1";
