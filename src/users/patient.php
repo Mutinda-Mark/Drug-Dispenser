@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-     <link rel="stylesheet" href="/Drug-Dispenser/css/style.css">
+     <link rel="stylesheet" href="/Drug-Dispenser/src/css/style.css">
     <title>Patient</title>
 </head>
 <body>
