@@ -2,7 +2,7 @@
 $servername = "20.164.22.232";
 $username = "root";
 $password = "";
-$database = "example";
+$database = "CAT1";
 
 
 
