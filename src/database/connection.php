@@ -1,4 +1,7 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
+
 $servername = "20.164.22.232";
 $username = "root";
 $password = "";
