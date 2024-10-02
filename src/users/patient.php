@@ -9,7 +9,7 @@
         <?php
         session_start(); // Start the session
 
-        $host = "20.164.22.232";
+        $host = "localhost";
         $username = "root";
         $password = "";
         $dbname = "CAT1";
