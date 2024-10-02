@@ -32,23 +32,23 @@ $redirectPage = ""; // Variable to store the user-specific page to redirect to
 switch ($userType) {
     case "patient":
         $tableName = "tbl_patient";
-        $redirectPage = "/src/users/patient.php";
+        $redirectPage = "/Drug-Dispenser/src/users/patient.php";
         break;
     case "doctor":
         $tableName = "tbl_doctor";
-        $redirectPage = "/src/users/doctor.php";
+        $redirectPage = "/Drug-Dispenser/src/users/doctor.php";
         break;
     case "supervisor":
         $tableName = "tbl_supervisor";
-        $redirectPage = "/src/users/supervisor.php";
+        $redirectPage = "/Drug-Dispenser/src/users/supervisor.php";
         break;
     case "pharmacist":
         $tableName = "tbl_pharmacist";
-        $redirectPage = "/src/users/pharmacist.php";
+        $redirectPage = "/Drug-Dispenser/src/users/pharmacist.php";
         break;
     case "pharmaceutical_company":
         $tableName = "tbl_pharmcom";
-        $redirectPage = "/src/users/pharmaceutical_company.php";
+        $redirectPage = "/Drug-Dispenser/src/users/pharmaceutical_company.php";
         break;
     default:
         echo "Invalid user type.";
