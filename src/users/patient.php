@@ -11,7 +11,7 @@
         $host = "localhost";
         $username = "root";
         $password = "";
-        $dbname = "example";
+        $dbname = "CAT1";
 
         // Create a new connection
         $conn = new mysqli($host, $username, $password, $dbname);
